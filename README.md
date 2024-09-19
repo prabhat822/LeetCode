@@ -4,5 +4,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2284-smallest-value-of-the-rearranged-number](https://github.com/prabhat822/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [3568-find-the-key-of-the-numbers](https://github.com/prabhat822/LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
+## Sorting
+|  |
+| ------- |
+| [2284-smallest-value-of-the-rearranged-number](https://github.com/prabhat822/LeetCode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 <!---LeetCode Topics End-->
