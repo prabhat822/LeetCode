@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prabhat822/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/prabhat822/LeetCode/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/prabhat822/LeetCode/tree/master/0242-valid-anagram) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/prabhat822/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 ## String Matching
