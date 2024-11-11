@@ -59,11 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prabhat822/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prabhat822/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prabhat822/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prabhat822/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/prabhat822/LeetCode/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prabhat822/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prabhat822/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -71,11 +73,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prabhat822/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prabhat822/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prabhat822/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prabhat822/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Array
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prabhat822/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prabhat822/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prabhat822/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/prabhat822/LeetCode/tree/master/0101-symmetric-tree) |
+## Binary Search
+|  |
+| ------- |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prabhat822/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prabhat822/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
