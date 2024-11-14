@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/prabhat822/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prabhat822/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/prabhat822/LeetCode/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/prabhat822/LeetCode/tree/master/0165-compare-version-numbers) |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prabhat822/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prabhat822/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prabhat822/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/prabhat822/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
