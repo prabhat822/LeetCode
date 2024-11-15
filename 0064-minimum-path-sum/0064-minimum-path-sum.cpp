@@ -4,30 +4,38 @@ public:
         int m=grid.size();
         int n=grid[0].size();
         
-        vector<vector<int>> dp(m,vector<int>(n,0));
+       // vector<vector<int>> dp(m,vector<int>(n,0));
+       
+       vector<int> temp2(n,0);
         for(int i=0;i<m;i++){
+            vector<int> temp1(n,0);
             for(int j=0;j<n;j++){
-                int a=grid[i][j];
-                int b=grid[i][j];
+                int a=INT_MAX;
+                int b=INT_MAX;
                 if(i==0&&j==0)
-                    dp[i][j]=grid[i][j];
+                    temp1[i]=grid[i][j];
                 else{
                 if(i>0){
-                    a+=dp[i-1][j];
+                    a=grid[i][j];
+                    a+=temp2[j];
                 }
                 else
                     a=INT_MAX;
                 if(j>0){
-                    b+=dp[i][j-1];
+                    b=grid[i][j];
+                    b+=temp1[j-1];
                 }
                 else
                     b=INT_MAX;
 
-                dp[i][j]=min(a,b);
+                temp1[j]=min(a,b);
             }
+            
             }
+            
+            temp2=temp1;
         }
-        return dp[m-1][n-1];
+        return temp2[n-1];
         
     }
 };
