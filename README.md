@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/prabhat822/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prabhat822/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/prabhat822/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 ## Tree
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/prabhat822/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prabhat822/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prabhat822/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0416-partition-equal-subset-sum](https://github.com/prabhat822/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prabhat822/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
