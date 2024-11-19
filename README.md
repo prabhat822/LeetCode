@@ -44,15 +44,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/prabhat822/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/prabhat822/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prabhat822/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/prabhat822/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/prabhat822/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/prabhat822/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/prabhat822/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/prabhat822/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prabhat822/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prabhat822/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/prabhat822/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prabhat822/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -86,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/prabhat822/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prabhat822/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prabhat822/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/prabhat822/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prabhat822/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Array
 |  |
@@ -116,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prabhat822/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prabhat822/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/prabhat822/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/prabhat822/LeetCode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Trie
 |  |
