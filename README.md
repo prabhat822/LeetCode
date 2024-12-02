@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/prabhat822/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/prabhat822/LeetCode/tree/master/0242-valid-anagram) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/prabhat822/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/prabhat822/LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 ## String Matching
 |  |
 | ------- |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/prabhat822/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/prabhat822/LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->
