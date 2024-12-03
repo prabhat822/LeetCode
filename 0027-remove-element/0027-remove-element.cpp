@@ -2,7 +2,7 @@ class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
         int n=nums.size();
-        int i=0,j=n-1;
+        int i=0;
         for(int k=0;k<n;k++){
             if(nums[k]!=val){
                 nums[i]=nums[k];
